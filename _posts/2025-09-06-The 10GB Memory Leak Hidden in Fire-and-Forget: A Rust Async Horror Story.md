@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The 10GB Memory Leak Hidden in Fire-and-Forget: A Rust Async Horror Story"
-date:   2025-01-14 00:29:13 +0900
+date:   2025-09-06 00:29:13 +0900
 categories: rust async memory-management production
 lang: en
 ---
