@@ -8,7 +8,7 @@ title: Home
 
 > Backend Developer with 6+ years building scalable enterprise systems
 
-📧 [tosky0514@gmail.com](mailto:tosky0514@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/yourprofile) | 🐙 [GitHub](https://github.com/tosky1125)
+📧 [tosky0514@gmail.com](mailto:tosky0514@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/shawn1125/) | 🐙 [GitHub](https://github.com/tosky1125)
 
 ---
 

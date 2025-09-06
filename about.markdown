@@ -41,4 +41,4 @@ I'm always up for interesting conversations about tech, architecture, or that bu
 
 - 📧 Drop me an email: [tosky0514@gmail.com](mailto:tosky0514@gmail.com)
 - 🐙 Check out my code: [@tosky1125](https://github.com/tosky1125)
-- 💼 Connect professionally: [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 Connect professionally: [LinkedIn](https://www.linkedin.com/in/shawn1125/)
