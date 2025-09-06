@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
-
-# About Me
 
 Hey there! I'm Seung-Ha, a backend developer who loves building things that scale. For the past 6+ years, I've been knee-deep in code, working on everything from real-time chat systems to complex financial platforms.
 
