@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Building In-Memory Test Environment and Improving Test Execution Time"
-date:   2021-07-21 11:00:00 +0100
+title:  "In-Memory 테스트 환경 구축 및 소요 시간 개선 / Building In-Memory Test Environment"
+date:   2021-07-21 00:29:13 +0900
 categories: testing performance
-lang: en
 ---
 
 <div class="language-switch">
