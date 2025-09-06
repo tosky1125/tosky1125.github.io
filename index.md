@@ -8,44 +8,33 @@ title: Home
 
 > Backend Developer with 6+ years building scalable enterprise systems
 
-📍 Walldorf, Germany | 📧 [tosky0514@gmail.com](mailto:tosky0514@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/yourprofile) | 🐙 [GitHub](https://github.com/tosky1125)
+📧 [tosky0514@gmail.com](mailto:tosky0514@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/yourprofile) | 🐙 [GitHub](https://github.com/tosky1125)
 
 ---
 
 ## About Me
 
-Backend Developer with 6+ years of experience building scalable enterprise systems. Currently at Everest Systems, architecting cloud-based ERP solutions that process millions of financial transactions daily. Achieved 65% performance improvement in critical rating calculations and implemented complex multi-currency accounting systems serving businesses across Europe and the US.
+I'm a backend developer passionate about building systems that scale. Over the past 6+ years, I've had the privilege of working on everything from payment gateways to enterprise ERP solutions. Currently, I'm at Everest Systems in Germany, where I architect cloud-based solutions that handle millions of financial transactions daily.
 
-Proven track record in system modernization, from monolith-to-microservices migrations to real-time architecture implementations. Strong expertise in TypeScript, Node.js, and AWS cloud services, with additional experience in JVM ecosystem (Kotlin/Spring Boot).
+My journey in tech has been driven by curiosity and a love for solving complex problems. Whether it's improving system performance by 65% or migrating legacy systems to modern architectures, I thrive on challenges that push me to grow.
 
-## Professional Experience
+## My Professional Journey
 
-### **Senior Software Developer** | Everest Systems GmbH
-*2022 - Present | Walldorf, Germany*
+### **Currently: Building the Future of ERP** 
+*Everest Systems GmbH | 2022 - Present*
 
-- Leading backend development for cloud-based ERP solution serving businesses across Europe and the US
-- Engineered **NetSuite migration** and **bidirectional Stripe integration**, implementing robust ETL pipelines with 100% data integrity
-- Developed **Accounting Module** handling multi-currency transactions and automated journal entries for 50+ accounting standards
-- Maintained **99.9% uptime** for critical services through on-call rotation
-- Mentoring 2 junior developers and collaborating with cross-functional teams
+At Everest, I'm leading the backend development for our cloud-based ERP platform. It's been an incredible journey working with multi-currency accounting systems and building integrations with services like NetSuite and Stripe. The best part? Seeing our solutions help businesses across Europe and the US streamline their operations.
 
-### **Backend Developer** | Mfort
-*2020 - 2022 | Remote*
+Some highlights from my time here:
+- Architected a complete NetSuite to Stripe migration with zero data loss
+- Built an accounting module that handles 50+ different accounting standards
+- Maintain 99.9% uptime while mentoring junior developers
+- Learned that the best code is the one that solves real business problems
 
-- Built **Real-time Chat System** supporting 1,000+ concurrent users using WebSocket and Redis pub/sub (< 50ms message delivery)
-- Developed **Notification Service** handling 100K+ daily notifications with 99.9% delivery rate
-- Implemented **TDD approach** achieving 85% test coverage, reducing production bugs by 70%
-- Established **CI/CD pipelines** reducing deployment time from 2 hours to 15 minutes
-
-### **Self-Employed Software Developer**
-*2018 - 2020 | Korea*
-
-- Developed RESTful APIs for 5+ client projects (e-commerce to SaaS platforms)
-- Implemented payment integrations processing 100K KRW+ monthly transactions
 
 ## Technical Skills
 
-**Languages:** TypeScript, Java, Kotlin, JavaScript, SQL  
+**Languages:** TypeScript, Java, Kotlin, JavaScript, Python, Rust, SQL  
 **Backend:** Node.js, Spring Framework, Express, NestJS  
 **Cloud & DevOps:** AWS, Kubernetes, Docker, Terraform, Jenkins, CI/CD  
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
@@ -55,14 +44,6 @@ Proven track record in system modernization, from monolith-to-microservices migr
 
 🏆 **AWS Solutions Architect Associate** - Amazon Web Services  
 🏆 **CKA: Certified Kubernetes Administrator** - The Linux Foundation
-
-## Education
-
-**BSc in Computer Science** | Korea National Open University  
-*2020 - 2025 | Data Structures, Algorithms, Software Engineering*
-
-**BBA in Business Administration** | Yeungnam University  
-*2009 - 2015 | Accounting, Asset Management, Business Information Systems*
 
 ## Key Achievements
 
