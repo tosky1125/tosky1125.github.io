@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hey there! I'm Seung-Ha, a backend developer who loves building things that scale. For the past 6+ years, I've been knee-deep in code, working on everything from real-time chat systems to complex financial platforms.
+Hey there! I'm Shawn, a backend developer who loves building things that scale. For the past 6+ years, I've been knee-deep in code, working on everything from real-time chat systems to complex financial platforms.
 
 Currently, I'm based in Germany working at Everest Systems, where I get to architect cloud-based ERP solutions that handle millions of transactions daily. It's challenging, it's fun, and I get to work with an amazing team while solving real business problems.
 
