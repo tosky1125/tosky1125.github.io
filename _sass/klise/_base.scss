@@ -7,6 +7,56 @@
   transition: background-color 75ms ease-in, border-color 75ms ease-in;
 }
 
+// Language switcher styles
+.lang-switch {
+  display: inline-flex;
+  align-items: center;
+  margin: 0 15px;
+  
+  .lang-btn {
+    padding: 5px 8px;
+    text-decoration: none;
+    color: #666;
+    font-weight: normal;
+    transition: all 0.2s;
+    cursor: pointer;
+    
+    &.active {
+      color: #333;
+      font-weight: bold;
+    }
+    
+    &:hover {
+      color: #000;
+    }
+  }
+  
+  .divider {
+    margin: 0 5px;
+    color: #999;
+  }
+}
+
+[data-theme="dark"] {
+  .lang-switch {
+    .lang-btn {
+      color: #999;
+      
+      &.active {
+        color: #fff;
+      }
+      
+      &:hover {
+        color: #ddd;
+      }
+    }
+    
+    .divider {
+      color: #666;
+    }
+  }
+}
+
 .notransition {
   -webkit-transition: none;
   -moz-transition: none; 
