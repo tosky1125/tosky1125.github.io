@@ -3,7 +3,6 @@ layout: post
 title:  "Building In-Memory Test Environment and Improving Test Execution Time"
 date:   2021-07-21 00:29:13 +0900
 categories: testing performance
-lang: en
 ---
 
 ## While Implementing CI/CD Pipeline

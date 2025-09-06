@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "in-memory 테스트 환경 구축 및 소요 시간 개선을 하면서"
-date:   2021-07-28 00:29:13 +0900
+date:   2021-07-21 00:29:13 +0900
 categories: 테스트
-lang: ko
 ---
 
 ## CI/CD 파이프라인을 구현하면서
