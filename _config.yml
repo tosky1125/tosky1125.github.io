@@ -32,7 +32,7 @@ theme: minima
 author:
   name: Shawn Han
   email: tosky0514@gmail.com
-  bio: Backend Developer | Building scalable systems
+  bio: Software Engineer | Building scalable systems
 plugins:
   - jekyll-feed
 
