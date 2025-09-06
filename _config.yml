@@ -21,11 +21,25 @@
 title: Shawn Han
 email: tosky0514@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Backend Engineer | Technology changes the world
+  Backend Engineer specializing in scalable systems, cloud architecture, and modern web technologies. 6+ years of experience with Node.js, TypeScript, AWS, and Kubernetes.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tosky1125.github.io" # the base hostname & protocol for your site
 twitter_username: ""
 github_username:  tosky1125
+
+# SEO Settings
+tagline: Backend Developer | Building Scalable Systems
+social:
+  name: Shawn Han
+  links:
+    - https://github.com/tosky1125
+    - https://www.linkedin.com/in/shawn1125/
+
+# Default image for Open Graph
+image: /assets/images/og-image.png
+
+# Google Analytics (추가하려면)
+# google_analytics: UA-XXXXXXXXX-X
 
 # Build settings
 theme: minima
@@ -35,6 +49,8 @@ author:
   bio: Backend Developer | Building scalable systems
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.

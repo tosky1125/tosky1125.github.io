@@ -1,0 +1,12 @@
+# Open Graph Image Instructions
+
+To improve social media sharing, add an og-image.png file:
+
+1. Create an image 1200x630px with your name and title
+2. Save as /assets/images/og-image.png
+3. The image will be automatically used for social sharing
+
+Recommended tools:
+- Canva (free templates)
+- Figma
+- Or use a service like og-image.vercel.app
