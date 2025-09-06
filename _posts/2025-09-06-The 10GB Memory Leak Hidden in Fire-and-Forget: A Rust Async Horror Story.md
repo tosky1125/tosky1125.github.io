@@ -6,8 +6,6 @@ categories: rust async memory-management production
 lang: en
 ---
 
-# The 10GB Memory Leak Hidden in Fire-and-Forget: A Rust Async Horror Story
-
 ## When Your Server Becomes a Memory Black Hole
 
 Picture this: It's 3 AM. Your on-call phone buzzes. The Grafana alert shows memory usage climbing like a rocket—1GB per hour, unstoppable. Your Rust service, the one you were so proud of for its "memory safety," is eating RAM like Chrome on steroids.
@@ -389,14 +387,6 @@ The final irony? Our "sophisticated" solution is actually less code than what we
 - ✅ Clear abort semantics
 - ✅ Minimal overhead
 - ✅ Production-ready
-
-## Epilogue: The Current State
-
-It's been 3 months since we deployed the AbortHandle solution. Zero memory leaks. Zero OOM kills. And most importantly, zero 3 AM wake-up calls.
-
-The PR that fixed it all was just 47 lines changed. The PR that tried JoinSet? 240 lines. 
-
-Less is more, especially at 3 AM.
 
 ---
 
