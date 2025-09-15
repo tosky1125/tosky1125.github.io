@@ -41,6 +41,9 @@ image: /assets/images/og-image.png
 # Google Analytics (추가하려면)
 # google_analytics: UA-XXXXXXXXX-X
 
+# Cache busting - add version query string to assets
+version: "{{ site.time | date: '%Y%m%d%H%M%S' }}"
+
 # Build settings
 theme: minima
 author:
